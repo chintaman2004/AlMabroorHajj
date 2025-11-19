@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'almabroorhajj-fe83a.firebasestorage.app',
     measurementId: 'G-1VGP20XSZT',
   );
+
 }
