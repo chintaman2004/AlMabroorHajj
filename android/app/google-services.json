@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710019077654",
+    "project_id": "almabroorhajj-fe83a",
+    "storage_bucket": "almabroorhajj-fe83a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710019077654:android:7fe90617fd26e50271c737",
+        "android_client_info": {
+          "package_name": "com.example.almabroorhajj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-HjVvDEQDPkctWLDF20RI03Nsgnc0j_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
